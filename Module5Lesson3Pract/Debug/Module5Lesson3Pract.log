@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\biahm\source\repos\module5lesson3pract\module5lesson3pract\source.cpp(82): warning C4101: 's': unreferenced local variable
+c:\users\biahm\source\repos\module5lesson3pract\module5lesson3pract\source.cpp(402): warning C4101: 'j': unreferenced local variable
+  Module5Lesson3Pract.vcxproj -> C:\Users\biahm\source\repos\Module5Lesson3Pract\Debug\Module5Lesson3Pract.exe
